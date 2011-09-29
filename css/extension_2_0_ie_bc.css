@@ -38,7 +38,7 @@ body {
     float: left; 
     height: 28px;
     width: 30px;
-    background: url("../images/loading_chrome.gif") center center no-repeat;
+    background: url("../images/extension_2_0/loading_chrome.gif") center center no-repeat;
 }
 #youdaoGWZS span.youdaoGWBar_left {
     width: 5px;
@@ -50,26 +50,26 @@ body {
     padding: 0;
 }
 .down span.youdaoGWBar_left {
-    background: url('../images/down_bar_l.png') 0 0 no-repeat;
+    background: url('../images/extension_2_0/down_bar_l.png') 0 0 no-repeat;
 }
 .up span.youdaoGWBar_left {
-    background: url('../images/up_bar_l.png') 0 0 no-repeat;
+    background: url('../images/extension_2_0/up_bar_l.png') 0 0 no-repeat;
 }
 .down span.youdaoGWBar_right {
-    background: url('../images/down_bar_r.png') 0 0 no-repeat;
+    background: url('../images/extension_2_0/down_bar_r.png') 0 0 no-repeat;
 }
 .up span.youdaoGWBar_right {
-    background: url('../images/up_bar_r.png') 0 0 no-repeat;
+    background: url('../images/extension_2_0/up_bar_r.png') 0 0 no-repeat;
 }
 #youdaoGWZS div.youdaoGWBar_mid {
     height: 100%;
     float: left;
 }
 .up div.youdaoGWBar_mid {
-    background: #fff url('../images/gouwu_up_bg.png') 0 0 repeat-x;
+    background: #fff url('../images/extension_2_0/gouwu_up_bg.png') 0 0 repeat-x;
 }
 .down div.youdaoGWBar_mid {
-    background: #fff url('../images/gouwu_down_bg.png') 0 0 repeat-x;
+    background: #fff url('../images/extension_2_0/gouwu_down_bg.png') 0 0 repeat-x;
 }
 #youdaoGWZS span.youdaoGWBar_right {
     width: 5px;
@@ -89,11 +89,11 @@ body {
 }
 .up #gouwu_icon {
     margin: 8px 5px 0 15px;
-    background: #fff url('../images/up_logo.png') 0 0 repeat-x;
+    background: #fff url('../images/extension_2_0/up_logo.png') 0 0 repeat-x;
 }
 .down #gouwu_icon {
     margin: 13px 5px 0 15px;
-    background: #fff url('../images/down_logo.png') 0 0 repeat-x;
+    background: #fff url('../images/extension_2_0/down_logo.png') 0 0 repeat-x;
 }
 #gouwu_icon.hide {
 }
@@ -105,7 +105,7 @@ body {
     width: 55px;
     height: 23px;
     position: absolute;
-    background: url('../images/ie/lowPrice.png') 0 -23px no-repeat;
+    background: url('../images/extension_2_0/ie/lowPrice.png') 0 -23px no-repeat;
     top: -10px;
 }
 .up #gouwu_lowPrice {
@@ -113,7 +113,7 @@ body {
     width: 55px;
     height: 23px;
     position: absolute;
-    background: url('../images/ie/lowPrice.png') 0 0 no-repeat;
+    background: url('../images/extension_2_0/ie/lowPrice.png') 0 0 no-repeat;
     bottom: -10px;
 }
 .up #gouwu_close {
@@ -122,7 +122,6 @@ body {
 .down #gouwu_close {
     margin-top: 20px; 
 }
-
 #youdaoGWZS  .close {
     float: left;
     width: 12px;
@@ -133,7 +132,7 @@ body {
     display: inline;
     cursor: pointer;
 	position: static;
-    background: url('../images/ie/gouwu_close.png') 0 0 no-repeat;
+    background: url('../images/extension_2_0/ie/gouwu_close.png') 0 0 no-repeat;
 }
 #gouwu_close.close:hover {
     background-position: -12px 0;
@@ -147,7 +146,7 @@ body {
     display: inline;
     overflow: hidden;
     cursor: pointer;
-    background: url('../images/ie/gouwu_open.png') 0 -14px no-repeat;
+    background: url('../images/extension_2_0/ie/gouwu_open.png') 0 -14px no-repeat;
 }
 #gouwu_close.open:hover {
     background-position: 0px 0;
@@ -187,7 +186,7 @@ body {
 .down #gouwu_logo {
     width: 93px;
     float: left;
-    background: url('../images/down_logo.png') no-repeat;
+    background: url('../images/extension_2_0/down_logo.png') no-repeat;
     margin: 0 5px 0 15px;
 }
 .up #gouwu_logo {
@@ -195,12 +194,12 @@ body {
     margin: 0 5px 0 15px;
     display: inline;
     float: left;
-    background: url('../images/up_logo.png') no-repeat;
+    background: url('../images/extension_2_0/up_logo.png') no-repeat;
 }
 #gouwu_searchMin {
     width: 45px;
     height: 28px;
-    background: url('../images/searchMin.png') 0 0 no-repeat;
+    background: url('../images/extension_2_0/searchMin.png') 0 0 no-repeat;
     margin: 0 5px;
     display: inline;
     float: left;
@@ -217,7 +216,7 @@ body {
 }
 #gouwu_douban {
     width: 55px;
-    background: url('../images/douban.png') 0 0 no-repeat;
+    background: url('../images/extension_2_0/douban.png') 0 0 no-repeat;
     margin: 0 5px;
     display: inline;
     float: left;
@@ -252,7 +251,7 @@ body {
 }
 #gouwu_taobao {
     width: 110px;
-    background: url('../images/morePrice.png') -110px 0 no-repeat;
+    background: url('../images/extension_2_0/morePrice.png') -110px 0 no-repeat;
     margin: 0 5px;
     display: inline;
     float: right;
@@ -281,7 +280,7 @@ body {
 #gouwu_morePrice {
     width: 110px;
     float: right;
-    background: url('../images/morePrice.png') 0 0 no-repeat;
+    background: url('../images/extension_2_0/morePrice.png') 0 0 no-repeat;
     margin: 0 5px;
     border-bottom: #FFF solid 1px;
 }
@@ -310,7 +309,7 @@ body {
     float: right;
     margin: 0 0 0 10px;
     border-bottom: #FFF solid 1px;
-    background: url('../images/ie/gouwu_conf.png') 0 0 no-repeat;
+    background: url('../images/extension_2_0/ie/gouwu_conf.png') 0 0 no-repeat;
 }
 #douwu_conf.enter {
     background-position: 0 -60px;
@@ -342,7 +341,7 @@ body {
 #youdaoGWZSShow.youdaoGWZSdouban span.youdaoGWZS_topIcon {
     width: 78px;
     height: 22px;
-    background: url(../images/ie/douban_icon.png) center center no-repeat;
+    background: url(../images/extension_2_0/ie/douban_icon.png) center center no-repeat;
     bottom: 8px;
 }
 #youdaoGWZSShow .douban1 span.bookStar {
@@ -351,7 +350,7 @@ body {
     padding: 0 10px 0 75px;
     line-height: 15px;
     height: 15px;
-    background: url('../images/bookStars.gif') 0 0 no-repeat;
+    background: url('../images/extension_2_0/bookStars.gif') 0 0 no-repeat;
 }
 #youdaoGWZSShow .douban2 {
     border-top: #ffffff solid 1px;
@@ -391,10 +390,10 @@ body {
 #youdaoGWZSShow .douban4 span.douban_author {
 	font-size: 12px;
 	line-height: 14px;
-    background: #f7f7f7 url('../images/author.png') 0 center no-repeat;
+    background: #f7f7f7 url('../images/extension_2_0/author.png') 0 center no-repeat;
 }
 #youdaoGWZSShow .douban4 span.douban_time {
-    background: #f7f7f7 url('../images/time.png') 0 center no-repeat;
+    background: #f7f7f7 url('../images/extension_2_0/time.png') 0 center no-repeat;
 }
 #youdaoGWZSShow .douban5 {
     background-color: #f7f7f7;
@@ -416,7 +415,7 @@ body {
     line-height: 30px;
     display: block;
     display: inline;
-    background: url('../images/span_border.png') 0 center no-repeat;
+    background: url('../images/extension_2_0/span_border.png') 0 center no-repeat;
     height: 30px;
     font-size: 12px;
     font-weight: bold;
@@ -432,7 +431,7 @@ body {
     text-decoration: underline;
 }
 #youdaoGWZSShow.priceData li.top {
-    background: url('../images/down_dataPrice_top.png') 0 0 no-repeat;
+    background: url('../images/extension_2_0/down_dataPrice_top.png') 0 0 no-repeat;
     position: relative;
     height: 37px;
     top: 0;
@@ -490,11 +489,11 @@ body {
 #youdaoGWZSShow.priceData ul li.noPrice:hover {
     border-top: #c7c7c7 solid 1px;
     border-bottom: #ececec solid 1px;
-    background: #ebebeb url('../images/price_hover.png') 0 0 repeat-x;
+    background: #ebebeb url('../images/extension_2_0/price_hover.png') 0 0 repeat-x;
 }
 #youdaoGWZSShow.priceData ul li.price a:hover {
     color: #cc0033;
-    background: #ebebeb url('../images/price_hover.png') 0 0 repeat-x;
+    background: #ebebeb url('../images/extension_2_0/price_hover.png') 0 0 repeat-x;
 }
 #youdaoGWZSShow.priceData ul li.ship {
     border-top: #FFF solid 1px;
@@ -506,13 +505,13 @@ body {
 }
 #youdaoGWZSShow span.famousleft {
     padding: 0 0 0 19px;
-    background: url('../images/famous.png') 0 center no-repeat;
+    background: url('../images/extension_2_0/famous.png') 0 center no-repeat;
     line-height: 14px;
     font-size: 12px;
     margin: 0;
 }
 #youdaoGWZSShow.priceData li.bottom {
-    background: url('../images/down_dataPrice_bottom.png') 0 0 no-repeat;
+    background: url('../images/extension_2_0/down_dataPrice_bottom.png') 0 0 no-repeat;
     position: relative;
     height: 12px;
     bottom: 0;
@@ -535,7 +534,7 @@ body {
 }
 #youdaoGWZSShow.searchMin form fieldset,
 #youdaoGWZS form fieldset{
-    background: url("../images/ie/min_form_bg.png") repeat-x 0 0;
+    background: url("../images/extension_2_0/ie/min_form_bg.png") repeat-x 0 0;
     border: 1px solid #B9B9B9;
     height: 36px;
     margin: 0;
@@ -571,7 +570,7 @@ body {
 }
 #youdaoGWZSShow #gouwu_searchBt ,
 #youdaoGWZS #gouwu_sMaxBt {
-    background: url("../images/ie/btn_search_shop.png") no-repeat scroll 0 0;
+    background: url("../images/extension_2_0/ie/btn_search_shop.png") no-repeat scroll 0 0;
     border: 0 none;
     cursor: pointer;
     font: bold 14px Simsun;
@@ -591,7 +590,7 @@ body {
 }
 #youdaoGWZSShow #gouwu_searchBt:hover ,
 #youdaoGWZSShow #gouwu_sMaxBt:hover {
-    background: url("../images/ie/btn_search_shop_hover.png") no-repeat scroll 0 0;
+    background: url("../images/extension_2_0/ie/btn_search_shop_hover.png") no-repeat scroll 0 0;
 }
 /* ==searchMax==*/
 #gouwu_searchMax {
@@ -623,12 +622,12 @@ body {
     border-top: #fff solid 1px;
     border-bottom: #dfdfdf solid 1px;
     background-color: #f7f7f7;
-    padding: 13px 13px 10px 10px;
+    padding: 9px 13px 8px 10px;
 }
 #youdaoGWZSShow.morePrice ul li.oneShop:hover {
     border-top: #c7c7c7 solid 1px;
     border-bottom: #ececec solid 1px;
-    background: #ebebeb url('../images/price_hover.png') 0 0 repeat-x;
+    background: #ebebeb url('../images/extension_2_0/price_hover.png') 0 0 repeat-x;
 }
 #youdaoGWZSShow.morePrice ul li.noShop {
     line-height: 14px;
@@ -640,7 +639,7 @@ body {
 #youdaoGWZSShow.morePrice ul li.noShop:hover {
     border-top: #c7c7c7 solid 1px;
     border-bottom: #ececec solid 1px;
-    background: #ebebeb url('../images/price_hover.png') 0 0 repeat-x;
+    background: #ebebeb url('../images/extension_2_0/price_hover.png') 0 0 repeat-x;
 }
 #youdaoGWZSShow.morePrice ul li.oneShop a,
 #youdaoGWZSShow.morePrice ul li.noShop a {
@@ -689,13 +688,13 @@ body {
     display: block;
     height: 13px;
     width: 100%;
-    background: url('../images/ie/rank1.png') 0 0 repeat-x;
+    background: url('../images/extension_2_0/rank1.png') 0 0 repeat-x;
 }
 #youdaoGWZSShow .oneShop .rank .rankImg2{
     display: block;
     height: 15px;
     width: 26px;
-    background: url('../images/rank2.png') 0 0 no-repeat;
+    background: url('../images/extension_2_0/rank2.png') 0 0 no-repeat;
 }
 #youdaoGWZSShow .oneShop .rank .noRankImg {
     display: none;
@@ -728,7 +727,7 @@ body {
     color: #000;
 }
 #youdaoGWZSShow .oneShop .ship {
-    width: 75px;
+    width: 80px;
     line-height: 14px;
     color: #698723;
 }
@@ -742,11 +741,10 @@ body {
     font-weight: bold;
 }
 #youdaoGWZSShow.morePrice .tr3{
-    height: 6px;
+    height: 10px;
 }
 #youdaoGWZSShow.taobao .tr3{
-    height: 4px;
-    _height: 2px;
+    height: 6px;
 }
 #youdaoGWZSShow.morePrice ul li.moreShop {
     height: 49px;
@@ -822,7 +820,7 @@ margin: 0 5px 15px 15px;
     *top:1px;
 }
 #gouwu_set {
-    background: url("../images/ie/btn_search_shop.png") no-repeat 0 0;
+    background: url("../images/extension_2_0/ie/btn_search_shop.png") no-repeat 0 0;
     border: 0 none;
     cursor: pointer;
     display: block;
@@ -849,7 +847,7 @@ margin: 0 5px 15px 15px;
     display: block;
     width: 12px;
     height: 12px;
-    background: url('../images/ie/conf_close.png') 0 0 no-repeat;
+    background: url('../images/extension_2_0/ie/conf_close.png') 0 0 no-repeat;
     position: absolute;
     right: 0;
     top: 0;
@@ -865,10 +863,10 @@ margin: 0 5px 15px 15px;
     line-height: 16px;
     margin: 8px 10px 6px 10px;
     padding: 0 0 0 21px;
-    background: url('../images/ie/conf_icons.png') 0 0 no-repeat;
+    background: url('../images/extension_2_0/ie/conf_icons.png') 0 0 no-repeat;
 }
 #youdaoGWZSShow.conf a.youdaoGWZSfeelback:hover {
-    background: url('../images/ie/conf_icons.png') 0 -40px no-repeat;
+    background: url('../images/extension_2_0/ie/conf_icons.png') 0 -40px no-repeat;
     text-decoration: underline;
 }
 #youdaoGWZSShow.conf a.youdaoGWZShelp {
@@ -880,10 +878,10 @@ margin: 0 5px 15px 15px;
     line-height: 16px;
     margin: 8px 10px 6px 10px;
     padding: 0 0 0 21px;
-    background: url('../images/ie/conf_icons.png') 0 -20px no-repeat;
+    background: url('../images/extension_2_0/ie/conf_icons.png') 0 -20px no-repeat;
 }
 #youdaoGWZSShow.conf a.youdaoGWZShelp:hover {
-    background: url('../images/ie/conf_icons.png') 0 -60px no-repeat;
+    background: url('../images/extension_2_0/ie/conf_icons.png') 0 -60px no-repeat;
     text-decoration: underline;
 }
 /* ==taobao==*/
@@ -898,12 +896,12 @@ margin: 0 5px 15px 15px;
     border-top: #fff solid 1px;
     border-bottom: #dfdfdf solid 1px;
     background-color: #f7f7f7;
-    padding: 13px 13px 10px 8px;
+    padding: 11px 13px 7px 8px;
 }
 #youdaoGWZSShow.taobao ul li.oneShop:hover {
     border-top: #c7c7c7 solid 1px;
     border-bottom: #ececec solid 1px;
-    background: #ebebeb url('../images/price_hover.png') 0 0 repeat-x;
+    background: #ebebeb url('../images/extension_2_0/price_hover.png') 0 0 repeat-x;
 }
 #youdaoGWZSShow.taobao ul li.oneShop a {
     display: block;
@@ -932,7 +930,7 @@ margin: 0 5px 15px 15px;
     color: #333;
 }
 #youdaoGWZSShow.taobao .youdaoGWZS_topIcon {
-    background: url(../images/taobao_logo.png) 0 center no-repeat;
+    background: url(../images/extension_2_0/taobao_logo.png) 0 center no-repeat;
     width: 64px;
 }
 /* ==features==*/
@@ -953,7 +951,7 @@ margin: 0 5px 15px 15px;
     height: 32px;
     text-align: center;
     padding: 17px 10px;
-    background : #f7f7f7 url('../images/features_bg.png') center center no-repeat;
+    background : #f7f7f7 url('../images/extension_2_0/features_bg.png') center center no-repeat;
 }
 .fts3 {
     padding: 10px 0 18px 25px;
@@ -992,14 +990,14 @@ margin: 0 5px 15px 15px;
     padding: 0;
 }
 .youdaoGWZS_st2 .youdaoGWZS_top1 {
-    background: url("../images/ie/st2_top_left.png") no-repeat left bottom;
-    height: 35px;
+    background: url("../images/extension_2_0/ie/st2_top_left.png") no-repeat left bottom;
+    height: 45px;
     margin: 0;
     padding: 0 0 0 10px;
 }
 .youdaoGWZS_st2 .youdaoGWZS_top2 {
-    background: url("../images/ie/st2_top.png") no-repeat right bottom;
-    height: 35px;
+    background: url("../images/extension_2_0/ie/st2_top.png") no-repeat right bottom;
+    height: 45px;
     margin: 0;
     padding: 0 10px 0 0;
     position: relative;
@@ -1023,21 +1021,21 @@ margin: 0 5px 15px 15px;
 }
 .youdaoGWZS_st2 .youdaoGWZS_bottom2 ,
 .youdaoGWZS_st1 .youdaoGWZS_bottom2 {
-    background:url("../images/ie/st2_btm_right.png") no-repeat right 0;
-    height: 7px;
+    background:url("../images/extension_2_0/ie/st2_btm_right.png") no-repeat right 0;
+    height: 18px;
     margin: 0;
     padding: 0;
 }
 .youdaoGWZS_st2 .youdaoGWZS_bottom1 ,
 .youdaoGWZS_st1 .youdaoGWZS_bottom1 {
-    background: url("../images/ie/st2_btm_left.png") no-repeat left 0;
-    height: 7px;
+    background: url("../images/extension_2_0/ie/st2_btm_left.png") no-repeat left 0;
+    height: 18px;
     font-size: 0;
     line-height: 0;
     margin: 0;
     padding: 0 0 0 3px;
-    _position: absolute;
-    _bottom: -7px;
+    _position: relative;
+    _bottom: 0;
     _left: 0;
 }
 .youdaoGWZS_st1 .youdaoGWZS_upPoint {
@@ -1045,14 +1043,14 @@ margin: 0 5px 15px 15px;
     height: 10px;
     position: absolute;
     top: 0;
-    background: url("../images/ie/st1_up_pt.png") no-repeat 0 0;
+    background: url("../images/extension_2_0/ie/st1_up_pt.png") no-repeat 0 0;
 }
 .youdaoGWZS_st1 .detail_shop{display:none;}
 .youdaoGWZS_st2 .youdaoGWZS_upPoint {
-    background: url("../images/ie/st2_up_pt.png") no-repeat 0 0;
+    background: url("../images/extension_2_0/ie/st2_up_pt.png") no-repeat 0 0;
     height: 11px;
     position: absolute;
-    top: -10px;
+    top: 0;
     width: 23px;
     z-index: 9999;
 }
@@ -1062,9 +1060,9 @@ margin: 0 5px 15px 15px;
 }
 .youdaoGWZS_st1 .youdaoGWZS_downPoint,
 .youdaoGWZS_st2 .youdaoGWZS_downPoint {
-    background: url("../images/ie/st2_down_pt.png") no-repeat 0 0;
-    bottom: -9px;
-            *bottom: -10px;
+    background: url("../images/extension_2_0/ie/st2_down_pt.png") no-repeat 0 0;
+    bottom: 1px;
+            *bottom: 1px;
             height: 14px;
             position: absolute;
             width: 23px;
@@ -1088,7 +1086,7 @@ margin: 0 5px 15px 15px;
     display: block;
     height: 38px;
     margin: 5px auto;
-    background: url("../images/ie/more_left.png") 0 0 no-repeat;
+    background: url("../images/extension_2_0/ie/more_left.png") 0 0 no-repeat;
     padding: 0 0 0 20px;
 }
 #youdaoGWZSShow .moreShopBox span {
@@ -1097,7 +1095,7 @@ margin: 0 5px 15px 15px;
     height: 38px;
     line-height: 38px;
     margin: 0;
-    background: url("../images/ie/more_right.png") right 0 no-repeat;
+    background: url("../images/extension_2_0/ie/more_right.png") right 0 no-repeat;
     padding: 0 20px 0 0;
     text-align: center;
 }
@@ -1109,4 +1107,38 @@ margin: 0 5px 15px 15px;
     left: -100px;
     height: 1px;
     width; 1px;
+}
+
+
+/* ie 兼容模式的修复 */
+#youdaoGWZSShow.conf .radio{
+    text-align:left;
+}
+#youdaoGWZSShow.conf .mid,
+#youdaoGWZSShow .douban5,
+#youdaoGWZSShow.morePrice ul li.moreShop,
+#youdaoGWZSShow.taobao ul li.moreShop{
+    text-align:center;
+}
+#gouwu_douban{
+    width:125px;
+}
+.youdaoGWZS_st1 .youdaoGWZS_top1{
+    height:12px;
+}
+.youdaoGWZS_st1 .youdaoGWZS_top2{
+    height:11px;
+}
+#youdaoGWZSShow.searchMin form fieldset{
+    height:38px;
+}
+#youdaoGWZSShow #gouwu_searchBt,
+#youdaoGWZS #gouwu_sMaxBt{
+    line-height:29px;
+}
+#gouwu_contentBar span, #gouwu_contentBar a {
+    height:29px;
+}
+#youdaoGWZS form fieldset{
+    height:34px;
 }
