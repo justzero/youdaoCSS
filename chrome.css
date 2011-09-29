@@ -370,7 +370,7 @@
     height: 12px;
 	margin: 0;
 	line-height: 12px;
-	font-size: 14px;
+	font-size: 12px;
     padding-left: 20px;
 	border: none 0;
     padding-right: 10px;
@@ -386,7 +386,7 @@
     padding: 5px 6px 8px 7px;
 	margin: 0;
 }
-#youdaoGWZSShow .douban5 span.bookMore{
+#youdaoGWZSShow .douban5 span{
     display: block;
     height: 38px;
     line-height: 38px;
