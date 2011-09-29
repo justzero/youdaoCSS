@@ -1097,6 +1097,7 @@
     position: absolute;
 	bottom: 10px;
     font-weight: bold;
+	text-align: left;
 }
 .youdaoGWZS_st1 .youdaoGWZS_content ,
 .youdaoGWZS_st2 .youdaoGWZS_content {

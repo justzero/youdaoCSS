@@ -1005,6 +1005,7 @@ margin: 0 5px 15px 15px;
     position: relative;
 }
 .youdaoGWZS_st2 .youdaoGWZS_top2 .youdaoGWZS_topIcon {
+	text-align: left;
     display: block;
     line-height: 18px;
     font-size: 14px;
